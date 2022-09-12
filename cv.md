@@ -30,6 +30,15 @@ learning new things and trying new things in general.
 - **Webpack**
 - **Figma**
 
+## Code example
+```
+function multiply(a, b){
+  a * b
+  return a * b
+}
+```
+
+
 ## Education
 
 **Computer Science**  
