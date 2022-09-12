@@ -14,7 +14,11 @@
 
 ## About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla odio elit, egestas sit amet porta at, eleifend ut leo. Curabitur sagittis pulvinar neque eu dictum. Sed at varius dolor, nec convallis lacus. Duis mollis aliquet blandit. In hac habitasse platea dictumst. Aenean quis diam vehicula est mattis lacinia quis non turpis. Praesent vel accumsan magna.
+I enjoy front end development and I am constantly improving
+my skill set with new frameworks and languages to increase my
+efficiency and deliverables.  
+In my spare time I like to spend time
+learning new things and trying new things in general.
 
 ## Skills
 
