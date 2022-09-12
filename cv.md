@@ -32,12 +32,13 @@ learning new things and trying new things in general.
 
 ## Code example
 ```
+
 function multiply(a, b){
   a * b
   return a * b
 }
-```
 
+```
 
 ## Education
 
