@@ -1,6 +1,6 @@
 # Denys Siryi
 
-## Junior Frontend Developer
+## Junior Front-end Developer
 
 ## Contacts:
 **Location:** Kyiv, Ukraine  
