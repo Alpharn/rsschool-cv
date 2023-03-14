@@ -1,1 +1,1 @@
-# rsschool-cv
+https://alpharn.github.io/rsschool-cv/
